@@ -1,0 +1,17 @@
+# dune exec test
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location:
+# C:\Users\Rikki\AppData\Local\Microsoft\Windows\INetCache\dune\db
+# Workspace root: "C:\\Users\\Rikki\\Documents\\test"
+# Auto-detected concurrency: 16
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ C:\Users\Rikki\AppData\Local\Programs\DKMLNA~1\bin\ocamlc.opt.exe -config > C:\Users\Rikki\AppData\Local\Temp\dune_04b668_output
